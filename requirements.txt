@@ -1,0 +1,10 @@
+torch>=2.2.2+cu121
+transformers>=4.24.0
+Flask>=2.2.2
+Flask-Cors>=4.0.0
+Flask-RESTful>=0.3.10
+gunicorn>=22.0.0
+itsdangerous>=2.0.1
+Jinja2>=3.1.2
+MarkupSafe>=2.1.1
+Werkzeug>=2.2.2
